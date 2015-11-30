@@ -1,5 +1,6 @@
 # jquery.ageverification
 Simple Age Verification Script written in Javascript
+example http://juliankoehn.github.io/jquery.ageverification/example/
 
 ### Requirements
 
