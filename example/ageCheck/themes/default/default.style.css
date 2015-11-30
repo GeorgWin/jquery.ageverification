@@ -93,6 +93,32 @@
     margin-left: 5px;
 }
 
+.ac-modal .errors {
+	padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    display:none;
+}
+.ac-modal select, .ac-modal input {
+	box-sizing: border-box;
+    color: #555;
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+    margin-right: 5px;
+    border: 1px solid #ccc;
+}
+.ac-modal select {
+    box-sizing: border-box;
+    height: 28px;
+    padding-left: 4px;
+}
+
 @media (min-width: 768px) {
 	.ac-modal {
 		font-size: 14px;
